@@ -29,5 +29,9 @@ public class Practica1 {
         Scanner sc2 = new Scanner(System.in);
         fecha = sc2.nextLine();
 
+	System.out.println("Tu nombre y apellido es: " + Nombre + " " + Apellido + " y tienes " + Edad + " años");
+        System.out.println("Numero de control: " + numControl);
+        System.out.println("Tu fecha de nacimiento es: "+fecha);
+
   }
 }
