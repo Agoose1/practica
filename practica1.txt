@@ -1,0 +1,15 @@
+package practica1;
+
+import java.util.Scanner;
+
+public class Practica1 {
+
+    public static void main(String[] args){
+        //variables
+        String Nombre;
+        String Apellido;
+        int Edad;
+        int numControl;
+        String fecha;
+  }
+}
